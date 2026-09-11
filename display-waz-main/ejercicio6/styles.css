@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:red;
+    padding: 10px;
+    gap: 10px;
+}
+.item{
+    background-color: black;
+    color: white;
+    font-size: 1.5 rem;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}

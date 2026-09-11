@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    align-items: stretch;
+    background-color: red;
+    height: 200px;
+}
+.caja{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin: 20px;
+    width: 100px;
+}
+.alto{
+    height: 100px;
+}

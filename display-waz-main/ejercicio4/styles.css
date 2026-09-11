@@ -1,0 +1,17 @@
+.contenedor{
+    display: flex;
+    align-items:center;
+    background-color: red;
+    height: 200px;
+}
+.caja{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.especial{
+    align-self:baseline;
+    background-color: blue;
+}

@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    background-color: red;
+    padding: 10px;
+}
+.caja{
+    background-color: black;
+    color: white;
+    padding: 100px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 8px;
+}
+.A { flex: 10;}
+.B { flex: 20;}
+.C { flex: 20;}
